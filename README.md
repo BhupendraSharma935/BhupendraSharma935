@@ -134,21 +134,6 @@ Observability Stack
 
 ---
 
-## 📂 Featured Repositories
-
-> ⭐ Check my pinned repositories below for real-world DevOps infrastructure examples
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| `kubernetes-platform-setup` | Production K8s configs — HPA, node pools, ingress, Velero DR | Kubernetes, Helm, Kustomize |
-| `terraform-aws-gcp-modules` | Reusable IaC modules for EKS, GKE, VPC, RDS, Cloud SQL | Terraform |
-| `ansible-playbooks` | Server automation — PostgreSQL, blockchain nodes, app deployment | Ansible |
-| `github-actions-workflows` | Reusable CI/CD templates with Workload Identity Federation | GitHub Actions |
-| `gitops-argocd-setup` | ArgoCD apps, Argo Rollouts canary & blue-green examples | ArgoCD |
-| `observability-stack` | Prometheus, Grafana dashboards, Thanos long-term storage setup | Prometheus, Grafana |
-
----
-
 ## 📜 Certifications
 
 - 🔄 **Certified Kubernetes Administrator (CKA)** — In Progress
